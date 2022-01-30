@@ -1,0 +1,9 @@
+main:
+  - title: "Work"
+    url: /work/
+  - title: "Jokes"
+    url: /jokes/
+  - title: "Useless Stuff"
+    url: /stuff/
+  - title: "About"
+    url: /about/
